@@ -14,8 +14,7 @@ This repository contains a Jupyter Notebook that implements Support Vector Machi
 2. [Features](#features)  
 3. [Dependencies](#dependencies)  
 4. [Usage](#usage)  
-5. [Results](#results)  
-6. [License](#license)
+5. [Results](#results)
 
 ---
 
